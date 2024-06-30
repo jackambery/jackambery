@@ -16,6 +16,6 @@ Hey, my name is Jack! 😎<br>I am a Computer Science (B.S.) major at Fairfield 
 ![](https://github-contributor-stats.vercel.app/api?username=jackambery&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jackambery&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jackambery&icon=0&color=1)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
